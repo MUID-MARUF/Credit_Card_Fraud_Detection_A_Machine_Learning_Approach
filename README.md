@@ -20,4 +20,6 @@ The six models are -
 6. Random Forest
 The XGBoost shows most accuracy almost 94.3%.
 
-To run the project, just download and extract the file and run it using Anaconda(Recommanded) or Google Collab.
+Download the dataset from the link - 
+https://drive.google.com/file/d/1ipgRNzn-2WEBo3NV1tztS2XJcWuLJNZV/view?usp=sharing
+To run the project, just download and extract the file and keep the python file and dataset file in the sam folder, run it using Anaconda(Recommanded) or Google Collab. 
